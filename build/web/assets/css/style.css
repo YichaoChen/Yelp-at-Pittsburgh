@@ -1,0 +1,170 @@
+body{
+
+}
+
+
+#wrapper{
+	position: relative;
+	padding-top: 85px;
+}
+
+.navbar{
+
+}
+
+#index_content{
+	margin-left:auto; 
+	margin-right:auto;
+}
+
+#index_logo{
+	width: 360px;
+}
+
+#logo{
+	width: 179px;
+	margin-top: 1px;
+}
+
+
+.index_textbox {
+    display: block;
+    width: 80%;
+    height: 40px;
+    padding: 6px 12px;
+    font-size: 25px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.textbox {
+    display: block;
+    height: 34px;
+    margin: 0px;
+    margin-top: 15px;
+    padding: 6px 12px;
+/*    margin-bottom: 5px;*/
+    width: 80%;
+    font-size: 20px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.home_button{
+	background-color: #dd1600;
+	color: #fff;
+	border: none;
+	font-size: 17px;
+}
+
+.home_button:hover{
+	background-color: #ed0008;
+	color: #fff;
+	border: none;
+}
+
+.button{
+	background-color: #dd1600;
+	color: #fff;
+	border: none;
+	font-size: 17px;
+	margin: 0px;
+	margin-top: 15px;
+	height: 34px;
+}
+
+.button:hover{
+	background-color: #ed0008;
+	color: #fff;
+	border: none;
+}
+
+.tag_button{
+	background-color: #fff;
+	color: #000;
+	border: 1px solid #ccc;
+	font-size: 16px;
+	height: 34px;
+	margin: 1%; 
+}
+
+.tag_button:hover{
+	background-color: #ccc;
+	color: #000;
+}
+
+.small_tag{
+	background-color: #fff;
+	color: #000;
+	border: 1px solid #ccc;
+	font-size: 12px;
+	height: 20px;
+	margin: 1%;
+	padding: 1px; 
+}
+
+.small_tag:hover{
+	background-color: #ccc;
+	color: #000;
+}
+
+#tag_area{	
+	border-bottom: 2px solid #f5f5f5;
+}
+
+#result{
+	margin-top: 5px;
+}
+
+
+
+.items{
+	border-top: 2px solid #f5f5f5;
+	margin-bottom: 5%;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+.items a{
+    font-size: 17px;
+}
+
+.items p{
+    font-size: 17px;
+}
+
+#review_area{
+    
+}
+
+.review{
+	border-top: 2px solid #f5f5f5;
+}
+
+.review_head h2{
+    font-size: 20px;
+}
+
+.review_body p{
+    font-size: 17px !important;
+}
+
+.restaurant{
+	background-color: #f5f5f5;
+	padding-left: 15px;
+}
+
+#filter{
+    padding-left: 10px;
+    padding-right: 10px;
+}

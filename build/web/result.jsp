@@ -1,7 +1,7 @@
 <%-- 
     Document   : result
     Created on : Dec 7, 2016, 11:49:26 PM
-    Author     : zigchg
+    Author     : cyc
 --%>
 
 <%@page import="java.util.ArrayList"%>

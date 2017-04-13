@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
     Created on : Dec 7, 2016, 9:44:48 PM
-    Author     : zigchg
+    Author     : cyc
 --%>
 <%@page import="edu.pitt.is2140.processing.Scoring"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
